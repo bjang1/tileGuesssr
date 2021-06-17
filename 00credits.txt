@@ -1,0 +1,24 @@
+//
+Elavator Music, intro screen
+https://instrumentalfx.co/top-10-best-elevator-music-royalty-free-download/
+//
+
+//
+key func typing (refactored)
+https://www.khanacademy.org/computer-programming/typing/4589368350113792
+//
+
+//
+timer
+https://github.com/scottkildall/p5.timer/blob/master/p5.timer.js
+//
+
+//
+calculator
+https://www.khanacademy.org/computing/computer-programming/programming/functions/pc/challenge-calculator
+//
+
+//
+tiles (refactored)
+https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations/memory-game/pc/challenge-tic-tac-toe
+//
